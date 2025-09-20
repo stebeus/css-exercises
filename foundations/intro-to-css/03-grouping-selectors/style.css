@@ -5,3 +5,8 @@
   font-family: Helvetica, 'Times New Roman', sans-serif;
   font-size: 28px;
 }
+
+.btn-blc {
+  background-color: #000;
+  color: #fff;
+}
