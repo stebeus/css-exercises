@@ -1,0 +1,16 @@
+* {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.red-banner,
+.green-banner {
+  padding: 3px 5px;
+}
+
+.red-banner {
+  background-color: red;
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
