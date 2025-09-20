@@ -5,17 +5,13 @@
   font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-#elem-big {
-  font-size: 24px;
-}
-
-#elem-blu,
-#elem-grn {
+.elem-big {
   font-size: 24px;
 }
 
 #elem-blu {
   color: #0000ff;
+  font-size: 36px;
 }
 
 #elem-grn {
