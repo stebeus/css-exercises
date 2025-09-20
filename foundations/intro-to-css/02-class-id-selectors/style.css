@@ -8,3 +8,17 @@
 #elem-big {
   font-size: 24px;
 }
+
+#elem-blu,
+#elem-grn {
+  font-size: 24px;
+}
+
+#elem-blu {
+  color: #0000ff;
+}
+
+#elem-grn {
+  background-color: #adffad;
+  font-weight: bold;
+}
