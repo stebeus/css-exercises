@@ -4,3 +4,7 @@
   background-color: rgb(255, 172, 172);
   font-family: Verdana, "DejaVu Sans", sans-serif;
 }
+
+.elem-odd .elem-big {
+  font-size: 24px;
+}
