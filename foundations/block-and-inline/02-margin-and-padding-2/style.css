@@ -4,10 +4,10 @@ body {
   box-sizing: border-box;
 }
 
-.card {
-  width: 400px;
-  background: #fff;
-  margin: 16px auto;
+.card,
+.title,
+.button-container {
+  padding: 8px;
 }
 
 .title,
@@ -15,10 +15,10 @@ body {
   margin-bottom: 8px;
 }
 
-.card,
-.title,
-.button-container {
-  padding: 8px;
+.card {
+  width: 400px;
+  background: #fff;
+  margin: 16px auto;
 }
 
 .title {
