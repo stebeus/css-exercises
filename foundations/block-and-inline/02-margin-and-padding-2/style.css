@@ -15,13 +15,16 @@ body {
 
 .content {
   background: #e3f4ff;
+  margin: 8px;
 }
 
 .button-container {
   background: #e3f4ff;
+  margin: 8px auto;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  margin: 0 auto;
 }
