@@ -12,9 +12,8 @@ body {
 }
 
 .title,
-.content,
-.button-container {
-  margin: 8px;
+.content {
+  margin-bottom: 8px;
 }
 
 .title,
