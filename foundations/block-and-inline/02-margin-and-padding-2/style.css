@@ -6,6 +6,7 @@ body {
 .title,
 .content,
 .button-container {
+  margin: 8px;
   padding: 8px;
 }
 
@@ -21,17 +22,14 @@ body {
 
 .content {
   background: #e3f4ff;
-
 }
 
 .button-container {
   background: #e3f4ff;
-  margin: 8px auto;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
-  margin: 0 auto;
   padding: 8px 24px;
 }
