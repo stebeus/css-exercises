@@ -6,7 +6,7 @@ html {
 
 .container {
   display: grid;
-  grid-template-columns: repeat(2, 1fr, 2fr);
+  grid-template-columns: 1fr 4fr;
   grid-template-areas:
     "header header"
     "sidebar nav"
