@@ -28,22 +28,27 @@ html {
 }
 
 .header {
+  grid-area: header;
   background-color: #006157;
 }
 
 .sidebar {
+  grid-area: sidebar;
   background-color: #005b94;
 }
 
 .nav {
+  grid-area: nav;
   background-color: #642cde;
 }
 
 .article {
+  grid-area: article;
   background-color: #7e1dc3;
 }
 
 .footer {
+  grid-area: footer;
   background-color: #393f4d;
 }
 
